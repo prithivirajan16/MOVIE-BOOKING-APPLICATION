@@ -1,0 +1,3 @@
+2011,Inception,Action,120,5,135.50,English
+2000,Fight Club,Comedy,90,5,145.00,English
+2017,Frozen,Drama,150,5,125.00,English

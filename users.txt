@@ -1,0 +1,10 @@
+1,john_doe,123
+2,alice_smith,abc
+3,bob_jones,password123
+4,lisa_wilson,mypassword
+5,kevin_brown,securepass
+6,emily_carter,pass123
+7,michael_anderson,password
+8,sophia_jackson,hello123
+9,david_taylor,p@ssword
+10,olivia_miller,user123

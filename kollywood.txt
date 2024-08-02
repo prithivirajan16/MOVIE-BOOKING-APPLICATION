@@ -1,0 +1,3 @@
+2004,Ghilli,Action,120,5,100.00,Tamil
+2002,Panchathandhiram,Comedy,90,5,120.00,Tamil
+1998,Uyire,Drama,150,5,90.00,Tamil
